@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar {
+    background-color: #333;
+    padding: 10px 20px;
+  }
+  
+  .btn {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    margin: 0 5px;
+    border-radius: 5px;
+    font-size: 16px;
+    color:green;
+  }
+  
+  .btn-red {
+    background-color: #ff6347; /* Tomato */
+  }
+  
+  .btn-blue {
+    background-color: #4169e1; /* Royal Blue */
+  }
+  
+  .btn-green {
+    background-color: #32cd32; /* Lime Green */
+  }
+  
+  .btn-yellow {
+    background-color: #ffd700; /* Gold */
+  }
+  
